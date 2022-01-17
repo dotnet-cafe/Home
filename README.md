@@ -5,7 +5,7 @@
    * Link https://github.com/dotnet-cafe/VisualStudio 
    * PR: https://github.com/github/VisualStudio/pull/1714 
 
-## codemaid 
+## Codemaid 
    * Link: https://github.com/dotnet-cafe/codemaid 
    * PR: https://github.com/codecadwallader/codemaid/pull/506
    
